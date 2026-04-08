@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=ethan%20gardner&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20•%20automator%20•%20tinkerer&descAlignY=60&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=ethan%20gardner&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20•%20automator%20•%20tester&descAlignY=60&descSize=18)
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=self-hosting+AI+on+consumer+hardware;building+telegram+bots+that+do+too+much;fine-tuning+models+in+my+bedroom;shipping+%3E+studying" alt="Typing SVG" /></a>
 
